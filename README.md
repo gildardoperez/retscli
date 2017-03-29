@@ -10,6 +10,9 @@ This gem is built on top of the [rets](http://github.com/estately/rets) gem, whi
 ![retscli gif](https://github.com/summera/gifs/blob/master/retscli/search_metadata_cropped.gif?raw=true)
 ![retscli png](https://github.com/summera/gifs/blob/master/retscli/search.png?raw=true)
 
+## RVM Version
+> rvm use ruby-2.1.5
+
 ## Installation
     $ gem install retscli
 
